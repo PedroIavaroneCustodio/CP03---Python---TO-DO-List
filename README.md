@@ -32,7 +32,6 @@ O projeto foi desenvolvido com foco em **organização, modularização e persis
 ---
 
 ## 🧩 Estrutura do Projeto
-```bash
 gerenciador_tarefas/
 - │
 - ├── main.py           # Arquivo principal que inicia o programa
