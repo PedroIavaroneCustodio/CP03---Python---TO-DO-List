@@ -44,7 +44,6 @@ gerenciador_tarefas/
 ## 💻 Como Executar
 
 ### 1. Clone o repositório:
-```bash
 git clone https://github.com/PedroIavaroneCustodio/CP03---Python---TO-DO-List.git
 
 ### 2. Acesse o diretório:
