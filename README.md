@@ -33,7 +33,6 @@ O projeto foi desenvolvido com foco em **organização, modularização e persis
 
 ## 🧩 Estrutura do Projeto
 gerenciador_tarefas/
-- │
 - ├── main.py           # Arquivo principal que inicia o programa
 - ├── tarefas.py        # CRUD das tarefas (criar, listar, atualizar, remover)
 - ├── persistencia.py   # Salvamento e carregamento de dados em JSON
